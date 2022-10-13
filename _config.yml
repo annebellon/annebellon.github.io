@@ -85,10 +85,10 @@ author:
   bio              : "Chercheuse en science politique"
   location         : "Paris, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://scholar.google.com/citations?user=uXYE1EYAAAAJ&hl=fr&oi=ao"
   uri              :
   bitbucket        :
   codepen          :
