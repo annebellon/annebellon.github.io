@@ -15,11 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Livres/Books
+### Livres/Books
 
 Anne Bellon (2022), *L'Etat et la toile. Du développement de l’internet à la numérisation des politiques publiques*, Éditions du Croquant, collection « Action Publique ». 
 
-## Articles
+### Articles
 
 Anne Bellon (2021), [« L’élaboration de la loi République numérique au gouvernement. Sociologie du travail politique des réformateurs numériques »](https://www.cairn.info/revue-reseaux-2021-1-page-23.htm), *Réseaux*, 2021/1, p.27-54. 
 
